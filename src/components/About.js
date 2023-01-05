@@ -5,6 +5,11 @@ const About = () => {
   return (
     <>
     <Navbar/>
+    <div>
+      <h1>
+      I build value by design.
+      </h1>
+    </div>
     </>
   )
 }
